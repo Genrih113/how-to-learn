@@ -2,6 +2,7 @@
   position: absolute;
   left: 64px;
   top: 30px;
+  height: 32px;
   background-image: url(../../../images/logo_place_footer.svg);
   z-index: 1;
 }
